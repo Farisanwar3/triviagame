@@ -49,31 +49,31 @@ function create(){
     text.align = 'center';
 
     text.font = 'Arial Black';
-    text.fontSize = 20;
+    text.fontSize = 23;
     text.fontWeight = 'bold';
     text.fill = '#ec008c';
 	
 	buttonText1 = game.add.text(81, 400, "Take a seat");
 	buttonText1.fill = '#000000';
-	buttonText1.fontSize = 9;
+	buttonText1.fontSize = 14;
 	buttonText1.font = 'Arial Black';
 	buttonText1.align = 'left';
 	
 	buttonText2 = game.add.text(81, 467, "Take a seat");
 	buttonText2.fill = '#000000';
-	buttonText2.fontSize = 9;
+	buttonText2.fontSize = 14;
 	buttonText2.font = 'Arial Black';
 	buttonText2.align = 'left';
 	
 	buttonText3 = game.add.text(81, 538, "Take a seat");
 	buttonText3.fill = '#000000';
-	buttonText3.fontSize = 9;
+	buttonText3.fontSize = 14;
 	buttonText3.font = 'Arial Black';
 	buttonText3.align = 'left';
 	
 	buttonText4 = game.add.text(81, 607, "Take a seat");
 	buttonText4.fill = '#000000';
-	buttonText4.fontSize = 9;
+	buttonText4.fontSize = 14;
 	buttonText4.font = 'Arial Black';
 	buttonText4.align = 'left';
 	//copied from Phaser examples
